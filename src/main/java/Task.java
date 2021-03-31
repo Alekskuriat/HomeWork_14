@@ -1,16 +1,5 @@
-import java.util.Arrays;
 
 public class Task {
-
-    /*public static void main(String[] args) {
-        int[] arrayTaskOne = new int[]{1, 3, 5, 4, 2, 2, 1, 9, 2, 3, 1, 1, 5};
-        int[] arrayTaskTwo = new int[]{1, 4, 1, 1, 1, 4, 1};
-        int[] arrayResult;
-        arrayResult = elementsAfterTheLastDigitFour(arrayTaskOne);
-        System.out.println(Arrays.toString(arrayResult));
-        System.out.println(arrayOfOnesAndFours(arrayTaskTwo));
-    }*/
-
 
     public int[] elementsAfterTheLastDigitFour(int[] array) {
         int position = 0;
